@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1589206847 source:d:\xampp\htdocs\c_plus_plus_plus\c_plus_plus_plus\main.cpp
+	<iostream>
+	"classes\addieren.cpp"
+	"classes\rechner.cpp"
+
+1589206372 d:\xampp\htdocs\c_plus_plus_plus\c_plus_plus_plus\classes\addieren.ccp
+
+1589206989 source:d:\xampp\htdocs\c_plus_plus_plus\c_plus_plus_plus\classes\rechner.cpp
+	<iostream>
+
+1589208591 d:\xampp\htdocs\c_plus_plus_plus\c_plus_plus_plus\classes\addieren.cpp
+
+1589206989 d:\xampp\htdocs\c_plus_plus_plus\c_plus_plus_plus\classes\rechner.cpp
+	<iostream>
+
+1589437977 source:d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\rechner.cpp
+	<iostream>
+
+1589464865 source:d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\main.cpp
+	<iostream>
+	"classes\addieren.cpp"
+	"classes\rechner.cpp"
+	"classes\sqrt.cpp"
+	"classes\primzahlen.cpp"
+
+1589393935 d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\addieren.cpp
+
+1589437977 d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\rechner.cpp
+	<iostream>
+
+1589474334 source:d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\sqrt.cpp
+	<iostream>
+
+1589474334 d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\sqrt.cpp
+	<iostream>
+
+1589392972 source:d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\primzahlen.cpp
+	<iostream>
+	<algorithm>
+
+1589392972 d:\xampp\htdocs\c_plus_plus_rechner\c_plus_rechner\classes\primzahlen.cpp
+	<iostream>
+	<algorithm>
+
